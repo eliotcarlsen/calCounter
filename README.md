@@ -15,15 +15,23 @@ _A website that allows user to input height, weight, activity, and age, to find 
 
 ## Specs
 
-* _Program takes name height, weight, and zip._
-input:60inch, 150lb, 98103._
+* _Program takes name, height, weight, and state, and month._
+input:60inch, 150lb, state, Jan._
 output: '60'_
 * _Program has inputs for activity, time and distance, saves info in vars_
 input:Pick activity: running, walking, jogging._
 output:this.var input = running_
-* __
-input:pizza.prototype_
+* _Program sorts the avg temperature based on input state and month._
+input:WA, January
 output:some formula here_
+* _Program takes all variables and calculates the calories burned / lbs lost._
+input: var running divided by time = calories burned_
+output:some formula here_
+* _Program displays the result to the user._
+input:NA_
+output:1lb burned!_
+
+
 
 
 ## Setup/Installation Requirements
